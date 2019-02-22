@@ -9,6 +9,6 @@ Read this tutorial if you're confused on how to install this mod.
 https://steamcommunity.com/sharedfiles/filedetails/?id=954235491
 
 ## Contact
-If you notice any problems or have a suggestion feel free to message me on Discord, I also hang out in the BakkesMod Discord server.
+If you notice any problems or have a suggestion feel free to message me on Discord.
 
 Discord: ItsBranK#4095
