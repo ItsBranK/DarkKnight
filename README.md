@@ -4,7 +4,7 @@ A fully customized UI for Rocket League, compatible with the v1.58 update.
 
 ## Installation
 
-Read this tutorial if you're confused on how to install this mod.
+Read this tutorial on how to use uMod.
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=954235491
 
