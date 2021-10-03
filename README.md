@@ -19,6 +19,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=954235491
 
 ![](./Previews/Inventory.jpg)
 
-![](./Previews/Custom Training.jpg)
+![](./Previews/Custom_Training.jpg)
 
 ![](./Previews/Tournaments.jpg)
