@@ -14,7 +14,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=954235491
 ## Previews
 
 ![](./Previews/Main Menu.jpg)
+
 ![](./Previews/Casual.jpg)
+
 ![](./Previews/Inventory.jpg)
+
 ![](./Previews/Custom Training.jpg)
+
 ![](./Previews/Tournaments.jpg)
